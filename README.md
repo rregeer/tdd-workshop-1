@@ -22,3 +22,9 @@ Requested features:
 - Able to substract two numbers
 - Able to multiply two numbers
 - Able to divide two numbers
+
+## Assignment 2
+Use a stub to test the Calculation Service:
+- Finish the test case in 'calculationService'
+- Add the missing test cases of the other actions of the request method.
+- Assert the behaviour in your test cases.
