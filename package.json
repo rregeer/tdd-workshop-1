@@ -1,0 +1,24 @@
+{
+  "name": "tdd-workshop-1",
+  "version": "1.0.0",
+  "description": "TDD Workshop 1 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/ava --verbose",
+    "watch": "./node_modules/.bin/ava --verbose --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rregeer/tdd-workshop-1.git"
+  },
+  "author": "Richard Regeer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rregeer/tdd-workshop-1/issues"
+  },
+  "homepage": "https://github.com/rregeer/tdd-workshop-1#readme",
+  "devDependencies": {
+    "ava": "^2.2.0",
+    "sinon": "^7.4.1"
+  }
+}
